@@ -28,7 +28,5 @@ Admin
 user: admin
 pass: admin123	
 
-create your own user
-
-****** https://topsourcecode.blogspot.com ******
-Subcribe my You tube Channel **** TopSourceCode ****
+ 
+ 
